@@ -1,0 +1,6 @@
+rg_name="dotnet_rg"
+rg_location="canadaeast"
+service_plan_name="example_service_plan"
+windows_web_app_name="exampledotnetapp"
+sku_name            = "P1v2"
+os_type             = "Windows"
